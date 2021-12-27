@@ -1,9 +1,6 @@
 #This is a simple grade calculator. The user enters the Grade cutoffs then inputs their grade my percentage.
 #The progam then evals the percentage and calculates the actual grade.
 
-#This is a simple grade calculator. The user enters the Grade cutoffs then inputs their grade by percentage.
-#The program then evaluates the percentage and calculates the actual grade.
-
 print("Welcome to Grade calculator 3000, Input the minimum grade to get the requested letter, do not input a range")
 grad_cut_off_1 = int(input("What is the Cut off for a A grade?"))
 grad_cut_off_2 = int(input("What is the cut off for a B grade?"))
