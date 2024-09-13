@@ -1,5 +1,6 @@
-Hi, I am Tomicgun, Welcome to my Git Hub account.
-I am cuurently learning Python and Java.
-I am a college student and Majoring in CSE
-If you have any comments, questions or concerns feel free to comment.
-Thanks and Enjoy!
+Hi, I am Thomas Marten, Welcome to my Git Hub account.
+I am currently learning software development and Engineering.
+I am a college student and Majoring in Computer Science
+Below are some of the projects I have worked on
+If you have any comments, questions or concerns feel free to reach out!
+
